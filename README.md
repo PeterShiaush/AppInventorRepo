@@ -1,2 +1,2 @@
-### 基礎：按 "學生HelloPurr.ipynb"
-### 進階：按 "學生Click3Times.ipynb"
+### 基本： "學生HelloPurr.ipynb"
+### 第2個APP IF： "學生Click3Times.ipynb"
